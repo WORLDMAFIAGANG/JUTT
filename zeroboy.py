@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•THE - JUTT -OFFICAL------•◈•
+|__\~~) •||•JUTT - BADSHAH---------------•◈•
+|__(-----\  •◈•------WORLD-MAFIA-GANG-------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mAuthor  \JUTT BADSHAH
+\033[1;96mInstagram \JUTT BADSHAH
+\033[1;96mFacebook  \033[1;93m: \033[1; JUTT BADSHAH
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/JUTT/BADSHAH
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +80,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92JUTT BADSHAH
+\033[1;96mInstagram \033[1;93m: \033[1;92JUTT BADSHAH
+\033[1;96mFacebook  \033[1;93m: \033[1;92m JUTT BADSHAH
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/JUTT/BADSHAH
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "JUTT"
+CorrectPassword = "JUTT"
 
 loop = 'true'
 while (loop == 'true'):
